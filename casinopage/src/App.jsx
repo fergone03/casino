@@ -1,6 +1,5 @@
 import './App.css'
-import casinoLogo from './assets/logo.svg'
-
+import casinoLogo from './assets/imgs/logos/logoWhite.png'
 function App() {
 
   return (
